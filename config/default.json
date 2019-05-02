@@ -1,0 +1,10 @@
+{
+    "client-id":"client-id",
+    "client-secret":"client-secret",
+    "callbackUrl":"callbackUrl",
+    "mongoUrl":"mongoUrl",
+    "secretKey":"secretyKey",
+    "google_client-id":"google_client-id",
+    "google_clinet_secret":"google-client-secret",
+    "google-callbackUrl":"google-callbackUrl"
+}

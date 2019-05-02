@@ -1,0 +1,10 @@
+{
+    "client-id":"202791cjhsc47516955",
+    "client-secret":"99d424a015d4094hsjhcc687248f7",
+    "callbackUrl":"http://localhost:3000/auth/facebook/callback",
+    "mongoUrl":"mongodb://localhost:27017/ecommerce",
+    "secretKey":"4848-4925-5625-5878",
+    "google_client-id":"377467913237-000tduk4rjceot909baaqwtrn51mtqh3.apps.googleusercontent.com",
+    "google_clinet_secret":"iY_DcJh1qj8XMHhhjgnjONMr",
+    "google-callbackUrl":"http//:localhost/auth/google/callback"
+}
